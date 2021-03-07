@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/musicology.github.io/static/js/main.f877a8e8.chunk.js",
-    "main.js.map": "/musicology.github.io/static/js/main.f877a8e8.chunk.js.map",
+    "main.js": "/musicology.github.io/static/js/main.d493885c.chunk.js",
+    "main.js.map": "/musicology.github.io/static/js/main.d493885c.chunk.js.map",
     "runtime-main.js": "/musicology.github.io/static/js/runtime-main.686d67a1.js",
     "runtime-main.js.map": "/musicology.github.io/static/js/runtime-main.686d67a1.js.map",
     "static/css/2.fc2db407.chunk.css": "/musicology.github.io/static/css/2.fc2db407.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.686d67a1.js",
     "static/css/2.fc2db407.chunk.css",
     "static/js/2.37ad274f.chunk.js",
-    "static/js/main.f877a8e8.chunk.js"
+    "static/js/main.d493885c.chunk.js"
   ]
 }
