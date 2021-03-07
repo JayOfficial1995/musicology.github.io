@@ -25,7 +25,7 @@ export const Menubar = ({ menubarActive }) => {
 };
 
 function Navbar() {
-  const siteLogo = "/images/site-logo.png";
+  const siteLogo = "./images/site-logo.png";
   const [isSearchbarToggle, setSearchbarToggle] = useState(true);
   const [isToggleActive, setToggleActive] = useState(false);
 
