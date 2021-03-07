@@ -15,6 +15,10 @@ export const NavbarStyle = styled.header`
   padding: 1.5rem 0;
   z-index: 3;
 
+  box-shadow: 0px 2px 9px -5px rgba(118, 116, 116, 0.75);
+  -webkit-box-shadow: 0px 2px 9px -5px rgba(118, 116, 116, 0.75);
+  -moz-box-shadow: 0px 2px 9px -5px rgba(118, 116, 116, 0.75);
+
   .navbar-container {
     ${CustomContainerStyle};
     ${CenteredLayoutStyle};

@@ -15,7 +15,7 @@ export const BannerStyle = styled.section`
   background-attachment: fixed;
 
   @media (max-width: ${(p) => p.theme.breakPoints.tablet}) {
-    height: 35rem;
+    background-position: -53rem 4rem;
   }
 
   .banner-container {
@@ -24,6 +24,10 @@ export const BannerStyle = styled.section`
     margin-bottom: 8.2rem;
 
     color: ${(p) => p.theme.color.whiteColor};
+
+    @media (max-width: ${(p) => p.theme.breakPoints.tablet}) {
+      margin-left: 2rem;
+    }
 
     .title {
       font-weight: ${(p) => p.theme.fontWeight.medium};
